@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @zuhairhk
+- I'm a highschool graduate heading into my first year at uni (comp eng)
+- Languages: Java, Python, C#, HTML & CSS... (trying to learn dart)
