@@ -1,3 +1,4 @@
 - 👋 Hey, I’m Zuhair Khan
 - I'm a highschool graduate heading into my first year at uni (comp eng)
 - Languages: Java, Python, C#, HTML & CSS... (trying to learn dart)
+- Check out my LinkedIN :) --> https://www.linkedin.com/in/zuhair-khan-1227a921b/
