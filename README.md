@@ -1,4 +1,4 @@
 - 👋 Hey, I’m Zuhair Khan
-- I'm a first year university student at Ryerson University (Computer Engineering)
-- Languages: Java, Python, C#, HTML & CSS... (trying to learn dart)
-- Check out my LinkedIN :) --> https://www.linkedin.com/in/zuhairhkhan/
+- I'm a second year university student at Toronto Metropolitan University (Computer Engineering)
+- Languages: Java, Python, C#, HTML & CSS, dart (mainly for Flutter purposes)
+- Check out my LinkedIN --> https://www.linkedin.com/in/zuhairhkhan/
