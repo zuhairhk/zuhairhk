@@ -1,4 +1,4 @@
 - 👋 Hey, I’m Zuhair Khan
 - I'm a second year university student at Toronto Metropolitan University (Computer Engineering)
-- Languages: Java, Python, C#, HTML & CSS, dart (mainly for Flutter purposes)
+- Languages: Java, Python, C#, HTML & CSS, Dart (mainly for Flutter purposes)
 - Check out my LinkedIN --> https://www.linkedin.com/in/zuhairhkhan/
