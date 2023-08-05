@@ -2,7 +2,7 @@
 # Hi there, I'm Zuhair Khan 👋
 
 <!-- Introduction -->
-I'm a second-year Computer Engineering student at Toronto Metropolitan University, passionate about software development and exploring new technologies.
+I'm a third-year Computer Engineering student (Software Option) at Toronto Metropolitan University, passionate about software development and exploring new technologies.
 
 <!-- Skills -->
 ## 🔧 Skills & Tools
