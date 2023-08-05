@@ -6,8 +6,8 @@ I'm a third-year Computer Engineering student (Software Option) at Toronto Metro
 
 <!-- Skills -->
 ## 🔧 Skills & Tools
-- **Languages:** Python, Java, C#, C, Dart, HTML/CSS, C++, MATLAB
-- **Technologies/Frameworks:** Flask, Flutter, Django, TuyaIoT, OpenCV, SQL, Firebase, Git, GitHub, JUnit, Android Studio, Unity, MultiSIM
+- **Languages:** Python, Java, C++, JavaScript, C, Dart, C#, MATLAB, HTML/CSS
+- **Technologies/Frameworks:** Flask, React Native, Flutter, Django, TuyaIoT, OpenCV, SQL, Firebase, Git, GitHub, JUnit, Android Studio, Unity
 
 <!-- GitHub Stats -->
 ## 📈 GitHub Stats
@@ -19,7 +19,7 @@ I'm a third-year Computer Engineering student (Software Option) at Toronto Metro
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-lightgrey?style=flat-square)](#)  <!-- Update this link once you have your portfolio website -->
 
 <!-- Visitors Badge -->
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=zuhairhkhan.zuhairhkhan)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=zuhairhk.zuhairhk)
 
 <!-- Footer -->
 
