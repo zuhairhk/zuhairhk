@@ -16,10 +16,10 @@ I'm a third-year Computer Engineering student (Software Option) at Toronto Metro
 <!-- Connect with me -->
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zuhair%20Khan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zuhairhkhan/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-lightgrey?style=flat-square)](#)  <!-- Update this link once you have your portfolio website -->
+[![Website](https://img.shields.io/badge/Website-zuhairhk.ca-34D399?style=flat-square)](https://zuhairhk.ca) <!-- Replace with your personal website URL -->
 
 <!-- Visitors Badge -->
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=zuhairhk.zuhairhk)
 
 <!-- Footer -->
-
+**Thanks for stopping by!** Feel free to explore my repositories and connect with me on LinkedIn :)
