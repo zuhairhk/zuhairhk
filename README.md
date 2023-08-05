@@ -15,4 +15,4 @@ I'm a third-year Computer Engineering student (Software Option) at Toronto Metro
 [![Website](https://img.shields.io/badge/Website-zuhairhk.ca-34D399?style=flat-square)](https://zuhairhk.ca)
 
 <!-- Footer -->
-**Thanks for stopping by!** Feel free to explore my repositories and connect with me on LinkedIn :)
+Feel free to explore my repositories and connect with me on LinkedIn :)
