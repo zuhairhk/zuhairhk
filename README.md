@@ -6,14 +6,12 @@ I'm a third-year Computer Engineering student (Software Option) at Toronto Metro
 
 <!-- Skills -->
 ## 🔧 Skills & Tools
-- **Languages:** Java, Python, C#, HTML & CSS
-- **Frameworks:** Dart (Flutter)
-- **Version Control:** Git
-- **Database:** MySQL, SQLite
+- **Languages:** Python, Java, C#, C, Dart, HTML/CSS, C++, MATLAB
+- **Technologies/Frameworks:** Flask, Flutter, Django, TuyaIoT, OpenCV, SQL, Firebase, Git, GitHub, JUnit, Android Studio, Unity, MultiSIM
 
 <!-- GitHub Stats -->
 ## 📈 GitHub Stats
-![Zuhair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zuhairhkhan&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=68D391&hide=prs,issues)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zuhairhk&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=68D391&hide=prs,issues)
 
 <!-- Connect with me -->
 ## 🤝 Connect with Me
@@ -24,4 +22,4 @@ I'm a third-year Computer Engineering student (Software Option) at Toronto Metro
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=zuhairhkhan.zuhairhkhan)
 
 <!-- Footer -->
-**Thanks for stopping by!** Feel free to explore my repositories and connect with me on LinkedIn. Let's learn and grow together!
+
