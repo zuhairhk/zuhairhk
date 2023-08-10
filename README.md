@@ -1,6 +1,8 @@
 <!-- Title -->
 # Hi there, I'm Zuhair Khan 👋
 
+![](https://thumbs.gfycat.com/FarOldElephantbeetle-mobile.mp4)
+
 <!-- Introduction -->
 I'm a third-year Computer Engineering student (Software Option) at Toronto Metropolitan University, passionate about software development and exploring new technologies.
 
