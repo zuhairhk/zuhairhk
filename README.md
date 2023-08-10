@@ -2,7 +2,7 @@
 # Hi there, I'm Zuhair Khan 👋
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://thumbs.gfycat.com/FarOldElephantbeetle-max-1mb.gif" alt="GIF" width="1920" height="400">
+  <img src="https://thumbs.gfycat.com/FarOldElephantbeetle-max-1mb.gif" alt="GIF" width="1920" height="340">
 </div>
 
 <!-- Introduction -->
