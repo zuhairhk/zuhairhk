@@ -2,7 +2,7 @@
 # Hi there, I'm Zuhair Khan 👋
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://i.pinimg.com/originals/65/59/e2/6559e2ac3b6c010eaddec54b45c1933d.gif" alt="GIF" width="1920" height="340">
+  <img src="https://i.pinimg.com/originals/8b/81/9d/8b819d40a12eaa67bf63c7123601853c.gif" alt="GIF" width="1920" height="340">
 </div>
 
 <!-- Introduction -->
