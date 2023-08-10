@@ -1,7 +1,9 @@
 <!-- Title -->
 # Hi there, I'm Zuhair Khan 👋
 
-<img src="https://thumbs.gfycat.com/FarOldElephantbeetle-max-1mb.gif" alt="GIF" width="600" height="270">
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://thumbs.gfycat.com/FarOldElephantbeetle-max-1mb.gif" alt="GIF" width="600" height="270">
+</div>
 
 <!-- Introduction -->
 I'm a third-year Computer Engineering student (Software Option) at Toronto Metropolitan University, passionate about software development and exploring new technologies.
